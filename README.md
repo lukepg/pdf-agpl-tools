@@ -109,6 +109,6 @@ PDFs are sent as base64-encoded strings in JSON:
 ## Source Code
 
 The source code for this project is available at:
-https://github.com/YOUR-ORG/pdf-agpl-tools
+https://github.com/lukepg/pdf-agpl-tools
 
 As required by the AGPL license, if you modify this software and provide it as a network service, you must make your modified source code available to users of that service.

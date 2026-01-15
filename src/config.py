@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     # Service info
     service_name: str = "pdf-agpl-tools"
     version: str = "1.0.0"
-    source_code_url: str = "https://github.com/YOUR-ORG/pdf-agpl-tools"
+    source_code_url: str = "https://github.com/lukepg/pdf-agpl-tools"
 
     class Config:
         env_prefix = "AGPL_"
